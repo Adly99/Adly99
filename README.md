@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdelrhman Elsayed Elgharabawy.
-- 👀 I’m interested in autonmous industrial car and robots.
+- 👀 I’m interested in Automotive embedded systems.
 - 🌱 I’m currently learning embedded systems. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdoadly900@gmail.com , 01202021002 & 01094878823 . 
