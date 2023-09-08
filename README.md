@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Abdelrhman Elsayed Elgharabawy.
+- 👋 Hi, I’m @Abdelrahman Elsayed Adly Elgharabawy.
 - 👀 I’m interested in Automotive embedded systems.
-- 🌱 I’m currently learning embedded systems. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently an intern at Valeo company. 
 - 📫 How to reach me abdoadly900@gmail.com , 01202021002 & 01094878823 . 
