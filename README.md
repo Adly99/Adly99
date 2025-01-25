@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Abdelrahman Elsayed Adly Elgharabawy.
 - 👀 I’m interested in Automotive embedded systems.
 - 🌱 I’m working currently at Valeo company as a Junior software engineer. 
-- 📫 How to reach me abdoadly900@gmail.com , 01202021002 & 01094878823 . 
+- 📫 How to reach me abdoadly900@gmail.com 01094878823 . 
